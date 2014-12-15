@@ -2,17 +2,6 @@
 load './RESPONSES.rb' 
 load './colours.rb'
 
-class User
-  attr_accessor :name  
-
-  def initialize 
-    @name = name 
-  end 
-end 
-
-
-
-
 
 def get_response(input)
   key = RESPONSES.keys.select {|k| /#{k}/ =~ input }.sample
