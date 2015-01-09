@@ -5,9 +5,11 @@ Synopsis
 A small ruby Chatbot program run from command line that can chat with users and create new 'chatters' based on user input
 
 Technologies Used
+
 RUBY
 
 
+Reflections
 
 This was the first proper ruby program that I created for Makers Academy and to this day I am pleased with the result.
 I vividly remember breaking up my code into small methods that I could re-use at different parts of the program 
